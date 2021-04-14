@@ -1,0 +1,259 @@
+[
+    {
+        "NumberOfBedsOver50": "Over50BedsAvailable",
+        "NameofHospital": [
+            {
+                "Name": "GTB Hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "18.6 km",
+                "TimeToReach": "44 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Shahdara, Delhi 110095",
+                        "LastUpdated": "Last updated at: 07:45 PM, April 14",
+                        "PhoneNumber": "9625900725",
+                        "BedsAvailable": "1185/1500"
+                    }
+                ]
+            },
+            {
+                "Name": "Lok Nayak Hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "11.5 km",
+                "TimeToReach": "28 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Jawahar Lal Nehru Marg, Delhi 110002",
+                        "LastUpdated": "Last updated at: 06:11 PM, April 14",
+                        "PhoneNumber": "9873617028",
+                        "BedsAvailable": "1014/1620"
+                    }
+                ]
+            },
+            {
+                "Name": "Rajeev Gandhi Super Speciality Hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "20.5 km",
+                "TimeToReach": "50 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Taharpur Rd, Taharpur, Taharpur Village, Dilshad Garden, New Delhi, Delhi 110093",
+                        "LastUpdated": "Last updated at: 05:56 PM, April 14",
+                        "PhoneNumber": "8595524745",
+                        "BedsAvailable": "356/650"
+                    }
+                ]
+            },
+            {
+                "Name": "HAHC Hospital, Hamdard Nagar",
+                "hospitalType": "PVT",
+                "HospitalDistance": "23.6 km",
+                "TimeToReach": "45 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Guru Ravidas Marg, Block D, Hamdard Nagar, New Delhi, Delhi 110062",
+                        "LastUpdated": "Last updated at: 04:28 PM, April 14",
+                        "PhoneNumber": "01129901111",
+                        "BedsAvailable": "247/300"
+                    }
+                ]
+            },
+            {
+                "Name": "St. Stephens Hospital, Tis Hazari",
+                "hospitalType": "PVT",
+                "HospitalDistance": "8.9 km",
+                "TimeToReach": "26 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "St. Stephen's Hospital Marg, Tis Hazari, New Delhi 110054",
+                        "LastUpdated": "Last updated at: 10:57 AM, April 14",
+                        "PhoneNumber": "7291977113",
+                        "BedsAvailable": "168/298"
+                    }
+                ]
+            },
+            {
+                "Name": "Park Hospital, Meera Bagh",
+                "hospitalType": "PVT",
+                "HospitalDistance": "8.9 km",
+                "TimeToReach": "32 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Bus Depot, Meera Enclave Outer Ring Road Near Kashopur, New Chaukhandi, Vishnu Garden, New Delhi, Delhi 110018",
+                        "LastUpdated": "Last updated at: 05:30 PM, April 14",
+                        "PhoneNumber": "01145323232",
+                        "BedsAvailable": "113/172"
+                    }
+                ]
+            },
+            {
+                "Name": "Ambedkar Nagar hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "21.0 km",
+                "TimeToReach": "43 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "",
+                        "LastUpdated": "Last updated at: 07:26 PM, April 14",
+                        "PhoneNumber": "8744071637",
+                        "BedsAvailable": "104/200"
+                    }
+                ]
+            },
+            {
+                "Name": "Mata Chanan Devi Hospital, Janakpuri",
+                "hospitalType": "PVT",
+                "HospitalDistance": "12.2 km",
+                "TimeToReach": "35 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "c1, Lal Sai Mandir Marg, Block C1, Janakpuri, New Delhi, Delhi 110058",
+                        "LastUpdated": "Last updated at: 06:53 PM, April 14",
+                        "PhoneNumber": "9811560885",
+                        "BedsAvailable": "79/200"
+                    }
+                ]
+            },
+            {
+                "Name": "LHMC",
+                "hospitalType": "CENTRAL GOVT",
+                "HospitalDistance": "6.7 km",
+                "TimeToReach": "21 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Near, Panchkuian Marg, Shivaji Stadium, New Delhi 110055",
+                        "LastUpdated": "Last updated at: 10:29 AM, April 14",
+                        "PhoneNumber": "01123498269",
+                        "BedsAvailable": "73/147"
+                    }
+                ]
+            },
+            {
+                "Name": "Deep Chand Bandhu",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "7.2 km",
+                "TimeToReach": "23 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Kokiwala Bagh, Ashok Vihar, Phase-IV, New Delhi",
+                        "LastUpdated": "Last updated at: 05:49 PM, April 14",
+                        "PhoneNumber": "01127305952",
+                        "BedsAvailable": "72/213"
+                    }
+                ]
+            },
+            {
+                "Name": "Shanti Mukand Hospital, Vikas Marg Extn.",
+                "hospitalType": "PVT",
+                "HospitalDistance": "17.1 km",
+                "TimeToReach": "41 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "2, Institutional Area, Bhartendu Harish Chandra Marg, Vikas Marg Extension, Karkardooma, New Delhi, Delhi 110092",
+                        "LastUpdated": "Last updated at: 06:02 PM, April 14",
+                        "PhoneNumber": "01147276600",
+                        "BedsAvailable": "71/131"
+                    }
+                ]
+            },
+            {
+                "Name": "AIIMS, Trauma Delhi",
+                "hospitalType": "CENTRAL GOVT",
+                "HospitalDistance": "12.6 km",
+                "TimeToReach": "25 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Delhi",
+                        "LastUpdated": "Last updated at: 05:54 AM, April 14",
+                        "PhoneNumber": "01126731109",
+                        "BedsAvailable": "71/294"
+                    }
+                ]
+            },
+            {
+                "Name": "Sir Ganga Ram City Hospital",
+                "hospitalType": "PVT",
+                "HospitalDistance": "3.4 km",
+                "TimeToReach": "11 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "B-2, Pusa Rd, North Extension Area, Rajinder Nagar, New Delhi, Delhi 110005",
+                        "LastUpdated": "Last updated at: 05:05 PM, April 14",
+                        "PhoneNumber": "01142255555",
+                        "BedsAvailable": "65/65"
+                    }
+                ]
+            },
+            {
+                "Name": "Deen Dayal Upadhyay hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "7.8 km",
+                "TimeToReach": "24 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "",
+                        "LastUpdated": "Last updated at: 04:55 PM, April 14",
+                        "PhoneNumber": "01125494331",
+                        "BedsAvailable": "60/140"
+                    }
+                ]
+            },
+            {
+                "Name": "Madhukar Rainbow Children Hosp., Malviya Nagar",
+                "hospitalType": "PVT",
+                "HospitalDistance": "18.4 km",
+                "TimeToReach": "37 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Geetanjali FC-29 5 Near Malviya Nagar Metro Station, New Delhi, Delhi 110017",
+                        "LastUpdated": "Last updated at: 05:10 PM, April 14",
+                        "PhoneNumber": "9100065913",
+                        "BedsAvailable": "59/67"
+                    }
+                ]
+            },
+            {
+                "Name": "Burari Hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "18.6 km",
+                "TimeToReach": "44 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Delhi",
+                        "LastUpdated": "Last updated at: 05:47 PM, April 14",
+                        "PhoneNumber": "01127611215",
+                        "BedsAvailable": "56/320"
+                    }
+                ]
+            },
+            {
+                "Name": "Ram Manohar Lohia Hospital",
+                "hospitalType": "CENTRAL GOVT",
+                "HospitalDistance": "5.5 km",
+                "TimeToReach": "17 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Baba Kharak Singh Rd, near Gurudwara Bangla Sahib, New Delhi 110001",
+                        "LastUpdated": "Last updated at: 05:27 PM, April 14",
+                        "PhoneNumber": "01123365525",
+                        "BedsAvailable": "55/200"
+                    }
+                ]
+            },
+            {
+                "Name": "Dr Baba Saheb Ambedkar Hospital",
+                "hospitalType": "DELHI GOVT",
+                "HospitalDistance": "11.9 km",
+                "TimeToReach": "36 min",
+                "Details": [
+                    {
+                        "HospitalAddress": "Delhi",
+                        "LastUpdated": "Last updated at: 08:00 PM, April 14",
+                        "PhoneNumber": "7290095590",
+                        "BedsAvailable": "55/184"
+                    }
+                ]
+            }
+        ]
+    }
+]
