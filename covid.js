@@ -19,7 +19,7 @@ async function wait(time){
     await browser.wait(wd.until.elementLocated(wd.By.css("#beds > tbody > tr > td.show-for-medium > div")));
     let hospitalType=await browser.findElements(wd.By.css("#beds > tbody > tr > td.show-for-medium > div"));
     let t1=0;
-    console.log(hospitalType.length);
+    //console.log(hospitalType.length);
     for(let i=0; i<hospitalBedOver50.length;i++){
         hospitalbed[0].NameofHospital.push({'Name':await hospitalBedOver50[i].getAttribute("innerText"),
                                             'hospitalType':await hospitalType[t1].getAttribute("innerText"),
